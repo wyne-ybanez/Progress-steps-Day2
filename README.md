@@ -1,1 +1,6 @@
-# Progress-steps-Day2
+## Progression steps - Day 2
+
+### Acknowledgements 
+
+- Brad Traversy 
+- Florin Pop
